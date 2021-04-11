@@ -30,12 +30,7 @@ void loop()
 
       break;
 
-    case 'd':
-
-      DialCall();
-
-      break;
-
+ 
   }
 
  if (mySerial.available()>0)
